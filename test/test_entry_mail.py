@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import pytest
-from accounts import Accounts
-from fixture import Fixture
+
+from fixture.fixture import Fixture
+from model.accounts import Accounts
+
 
 @pytest.fixture
 def app(request):
