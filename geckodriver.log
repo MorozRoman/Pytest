@@ -1,0 +1,111 @@
+1500468759744	geckodriver	INFO	Listening on 127.0.0.1:51050
+1500468761787	mozprofile::profile	INFO	Using profile path C:\Users\Roman\AppData\Local\Temp\rust_mozprofile.ip7EPPEatMdB
+1500468761796	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500468761809	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51058
+1500468763263	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500468766081	Marionette	INFO	Listening on port 51058
+1500468766347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500468776457	Marionette	INFO	Ceased listening
+1500472418964	geckodriver	INFO	Listening on 127.0.0.1:55477
+1500472420988	mozprofile::profile	INFO	Using profile path C:\Users\Roman\AppData\Local\Temp\rust_mozprofile.j7y3S9Srf7wE
+1500472420996	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500472421007	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55485
+1500472421658	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500472424675	Marionette	INFO	Listening on port 55485
+1500472424969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500472441346	Marionette	INFO	Ceased listening
+1500533915053	geckodriver	INFO	Listening on 127.0.0.1:55672
+1500533917144	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.8P1mNo0PmXr6
+1500533917150	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500533917157	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55680
+1500533950655	geckodriver::marionette	ERROR	Failed to kill browser process
+1500533996197	geckodriver	INFO	Listening on 127.0.0.1:55973
+1500533998248	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.GGl0AVLS5ov4
+1500533998254	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500533998264	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55981
+1500533998769	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500534000876	Marionette	INFO	Listening on port 55981
+1500534001647	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500534228778	geckodriver	INFO	Listening on 127.0.0.1:56495
+1500534230866	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.f2mil2FgcUJo
+1500534230872	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500534230878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56505
+1500534231391	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500534233050	Marionette	INFO	Listening on port 56505
+1500534234048	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500534239243	Marionette	INFO	New connections will no longer be accepted
+1500537144975	geckodriver	INFO	Listening on 127.0.0.1:61614
+1500537147173	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.TVKxEfAvVily
+1500537147186	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500537147197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61622
+1500537147800	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500537149515	Marionette	INFO	Listening on port 61622
+1500537150448	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500537157066	Marionette	INFO	New connections will no longer be accepted
+1500537272873	geckodriver	INFO	Listening on 127.0.0.1:61879
+1500537274963	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.g9fQzuKHsEJm
+1500537274968	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500537274974	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61887
+1500537275540	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500537276949	Marionette	INFO	Listening on port 61887
+1500537277133	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500537341661	Marionette	INFO	New connections will no longer be accepted
+1500537482617	geckodriver	INFO	Listening on 127.0.0.1:62236
+1500537484743	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.rsP5CrnbQG9q
+1500537484750	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500537484789	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62244
+1500537485464	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500537487329	Marionette	INFO	Listening on port 62244
+1500537487980	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500538454090	geckodriver	INFO	Listening on 127.0.0.1:63829
+1500538456202	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.CfXfH9ze3yNv
+1500538456207	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500538456215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63837
+1500538456835	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500538458356	Marionette	INFO	Listening on port 63837
+1500538459375	Marionette	WARN	Using deprecated data structure for setting timeouts
+1500540649482	geckodriver	INFO	Listening on 127.0.0.1:51522
+1500540651614	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.QCT3naMcTtkU
+1500540651620	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500540651627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51530
+1500540652270	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500540654351	Marionette	INFO	Listening on port 51530
+1500540654807	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500540663422	Marionette	INFO	New connections will no longer be accepted
+1500540705423	geckodriver	INFO	Listening on 127.0.0.1:51718
+1500540707494	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.z28TgUOQsSbQ
+1500540707500	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500540707510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51728
+1500540708073	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500540710078	Marionette	INFO	Listening on port 51728
+1500540710674	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500540718650	Marionette	INFO	New connections will no longer be accepted
+1500540751674	geckodriver	INFO	Listening on 127.0.0.1:51901
+1500540753741	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.gtHsuA21FJpO
+1500540753749	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500540753755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51909
+1500540754159	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500540756001	Marionette	INFO	Listening on port 51909
+1500540756922	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500540764672	Marionette	INFO	New connections will no longer be accepted
+1500540814935	geckodriver	INFO	Listening on 127.0.0.1:52134
+1500540817023	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.6Qva1Olo9CwA
+1500540817028	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500540817036	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52142
+1500540817425	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500540819269	Marionette	INFO	Listening on port 52142
+1500540820209	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500540828407	Marionette	INFO	New connections will no longer be accepted
+1500544865003	geckodriver	INFO	Listening on 127.0.0.1:53057
+1500544867145	mozprofile::profile	INFO	Using profile path C:\Users\user\AppData\Local\Temp\rust_mozprofile.ZtdrUse36mZ6
+1500544867151	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1500544867159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53063
+1500544868104	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1500544870227	Marionette	INFO	Listening on port 53063
+1500544870468	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://yastatic.net/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500544879507	Marionette	INFO	New connections will no longer be accepted
