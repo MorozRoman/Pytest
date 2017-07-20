@@ -13,10 +13,5 @@ class Fixture:
         wd.get("https://mail.ru/")
 
 
-    def input_button(self):
-        wd = self.wd
-        wd.find_element_by_id("mailbox__auth__button").click()
-
-
     def destroy(self):
         self.wd.close()

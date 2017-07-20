@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import pytest
-
 from fixture.fixture import Fixture
 from model.accounts import Accounts
 

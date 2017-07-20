@@ -15,10 +15,14 @@ class SessionHelper:
         wd.find_element_by_id("mailbox__login").clear()
         wd.find_element_by_id("mailbox__login").send_keys(accounts.name)
         wd.find_element_by_class_name("mailbox__auth__remember__checkbox").click()
-        self.app.input_button()
+        self.input_button()
+        # Нужно разобраться с ожиданием прогрузки страницы
         time.sleep(2)
 
 
+    def input_button(self):
+        wd = self.app.wd
+        wd.find_element_by_id("mailbox__auth__button").click()
 
     def out_mail(self):
         wd = self.app.wd
