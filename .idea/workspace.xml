@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33c3ca0b-7f7c-407c-a4aa-b7e4ace79bdc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dop_methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/two.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/accounts.py" afterPath="$PROJECT_DIR$/model/accounts.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fixture.py" afterPath="$PROJECT_DIR$/fixture/fixture.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_entry_mail.py" afterPath="$PROJECT_DIR$/test/test_entry_mail.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Widget_present.py" afterPath="$PROJECT_DIR$/Widget_present.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/Lib/site-packages/future/moves/test/support.py" afterPath="$PROJECT_DIR$/env/Lib/site-packages/future/moves/test/support.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/env/Lib/site-packages/future/standard_library/__init__.py" afterPath="$PROJECT_DIR$/env/Lib/site-packages/future/standard_library/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixture/fixture.py" afterPath="$PROJECT_DIR$/fixture/fixture.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_entry_mail.py" afterPath="$PROJECT_DIR$/test/test_entry_mail.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,12 +27,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fixture.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fixture.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/fixture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fixture/session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utility_methods.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utility_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,13 +105,15 @@
         <option value="$PROJECT_DIR$/dop_methods.py" />
         <option value="$PROJECT_DIR$/two.py" />
         <option value="$PROJECT_DIR$/test/test_entry_mail.py" />
+        <option value="$PROJECT_DIR$/fixture/session.py" />
+        <option value="$PROJECT_DIR$/fixture/fixture.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -199,39 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in two.py">
-    <configuration default="false" name="py.test in test_entry_mail.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="C:\Python\Python35-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testovoe" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnitTest" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testovoe/test_entry_mail.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in two.py (2)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="C:\Python\Python35-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Widget present" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnitTest" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Widget present/two.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test_entry_mail.py">
     <configuration default="false" name="py.test in new_masseges_mail.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,6 +265,40 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/two.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test_entry_mail.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTest" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_entry_mail.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fixture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fixture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UnitTest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixture/fixture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -346,19 +367,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_entry_mail.py (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in two.py (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in new_masseges_mail.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Widget_present.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in two.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in new_masseges_mail.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Widget_present.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in two.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_entry_mail.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fixture" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in two.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Widget_present.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in new_masseges_mail.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in two.py (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_entry_mail.py (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_entry_mail.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fixture" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in two.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Widget_present.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in new_masseges_mail.py" />
       </list>
     </recent_temporary>
   </component>
@@ -376,49 +397,49 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_Widget_present_py - 2017.07.20 at 13h 08m 07s.xml">
-      <configuration name="py.test in Widget_present.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 01m 02s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_new_masseges_mail_py - 2017.07.20 at 11h 52m 45s.xml">
-      <configuration name="py.test in new_masseges_mail.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 01m 54s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_new_masseges_mail_py - 2017.07.20 at 11h 53m 48s.xml">
-      <configuration name="py.test in new_masseges_mail.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 11m 46s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_new_masseges_mail_py - 2017.07.20 at 13h 01m 20s.xml">
-      <configuration name="py.test in new_masseges_mail.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 14m 33s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 12h 41m 10s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 15m 57s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 13h 12m 06s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 19m 17s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 13h 30m 49s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 20m 09s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 13h 33m 32s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 21m 06s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 13h 34m 08s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 22m 05s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_two_py - 2017.07.20 at 13h 35m 44s.xml">
-      <configuration name="py.test in two.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_entry_mail_py - 2017.07.20 at 15h 23m 55s.xml">
+      <configuration name="py.test in test_entry_mail.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2638889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18959913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25785482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16185898" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16151386" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -443,12 +464,11 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/two.py" />
     <entry file="file://$PROJECT_DIR$/application.py" />
     <entry file="file://$PROJECT_DIR$/one.py" />
     <entry file="file://$PROJECT_DIR$/utility_methods.py" />
@@ -535,14 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="177" column="28" lean-forward="true" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utility_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -651,6 +663,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utility_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_entry_mail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -663,8 +685,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fixture/fixture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding />
         </state>
       </provider>

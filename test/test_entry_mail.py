@@ -12,5 +12,5 @@ def app(request):
     return fixture
 
 def test_test_entry_mail(app):
-    app.input_mail(Accounts(name="123", pas="123"))
-    app.out()
+    app.session.input_mail(Accounts(name="romik.1994", pas="89632224715r"))
+    app.session.out_mail()
